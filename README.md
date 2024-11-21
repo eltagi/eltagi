@@ -54,8 +54,8 @@ With years of experience in software development and management, I specialize in
 
 ## 🌐 **Connect with Me**
 - **LinkedIn:** [Mohamed Abdelaziz Eltagi](https://www.linkedin.com/in/mohamed-aziz-8719b3a7/)  
-- **GitHub:** [github.com/your-username](https://github.com/eltagi)  
-- **Email:** [your.email@example.com](mailto:md.eltagi@gmail.com)  
+- **GitHub:** [https://github.com/eltagi](https://github.com/eltagi)  
+- **Email:** [md.eltagi@gmail.com](mailto:md.eltagi@gmail.com)  
 
 ---
 
