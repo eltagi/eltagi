@@ -14,9 +14,9 @@ With years of experience in software development and management, I specialize in
 
 ## 🛠️ **Technical Skills**
 - **Programming:** Python, JavaScript, XML, SQL  
-- **Frameworks & Tools:** Odoo, Django,
-- **Database Management:** PostgreSQL, MySQL
-- **Project Management Tools:** Trello
+- **Frameworks & Tools:** Odoo,
+- **Database Management:** PostgreSQL, SQL
+- **Project Management Tools:** Jira
 - **Version Control:** Git & GitHub  
 - **Healthcare Systems:** EHR, RCM, Clinic Management  
 
